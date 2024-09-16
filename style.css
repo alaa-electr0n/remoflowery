@@ -812,6 +812,10 @@ h3 {
     padding: 3rem;
   }
 
+  .header{
+    padding: 2rem 3rem;
+  }
+
   .footer .main__footer {
     width: 100%;
     grid-template-columns: auto auto;
